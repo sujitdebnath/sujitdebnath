@@ -17,9 +17,17 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/sujitdebnath/count.svg" /></p>
 
+<!-- 
 <div style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
+</div>
+-->
+
+<div align="center" dir="auto">
+  <img style="max-width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
+  &nbsp;
+  <img style="max-width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
 </div>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitdebnath&show_icons=true&locale=en&layout=donut" alt="sujitdebnath" /> -->
