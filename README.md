@@ -26,7 +26,6 @@
 
 <div align="center" dir="auto">
   <img style="max-width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
-  &nbsp;
   <img style="max-width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
 </div>
 
