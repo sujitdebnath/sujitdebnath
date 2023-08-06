@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sujit Debnath 👋</h1>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="50%"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="55%"/>
 
 <h3 align="left">About Me</h3>
 <ul>
@@ -19,16 +19,16 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/sujitdebnath/count.svg" /></p>
 
-<!-- 
-<div style="display: flex; flex-direction: row;">
+<div align="center">
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" width="47%" />
+  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" width="50%" />
+</div>
+
+<!--
+<div align="center" style="display: flex; flex-direction: row;">
   <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
+  &nbsp;
   <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
 </div>
 -->
-
-<div align="center" dir="auto">
-  <img style="max-width: 100%;" class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
-  <img style="max-width: 100%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
-</div>
-
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitdebnath&show_icons=true&locale=en&layout=donut" alt="sujitdebnath" /> -->
