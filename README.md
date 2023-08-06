@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sujit Debnath 👋</h1>
-<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="45%"/>
+<img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="50%"/>
 
 <h3 align="left">About Me</h3>
 <ul>
