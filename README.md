@@ -25,7 +25,7 @@
     <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath github stats" width="47%" />
     <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath" alt="sujitdebnath github streak" width="50%" />
   </div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitdebnath&theme=github-compact&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="sujitdebnath activity graph" style="width: 98%; height: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitdebnath&theme=github-compact&bg_color=FFFFFF&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="sujitdebnath activity graph" style="width: 98%; height: auto;">
 </div>
 
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitdebnath&show_icons=true&locale=en&layout=donut" alt="sujitdebnath" /> -->
