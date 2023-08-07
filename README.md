@@ -12,23 +12,20 @@
 </ul>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sujit-debnath" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sujit-debnath" alt="sujit-debnath"/></a>
-  <a href="https://twitter.com/SujitDeb007" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SujitDeb007" alt="SujitDeb007"/></a>
-  <a href="https://www.leetcode.com/sujit-debnath" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsujit-debnath&logo=leetcode&logoColor=yellow" alt="sujit-debnath"/></a>
+  <a href="mailto:sujit.debnath.bd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sujit debnath email"/></a>
+  <a href="https://www.linkedin.com/in/sujit-debnath" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sujit-debnath" alt="sujit debnath linkedin"/></a>
+  <a href="https://twitter.com/SujitDeb007" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/SujitDeb007" alt="sujit debnath twitter"/></a>
+  <a href="https://www.leetcode.com/sujit-debnath" target="blank"><img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fsujit-debnath&logo=leetcode&logoColor=yellow" alt="sujit debnath leetcode"/></a>
 </p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/sujitdebnath/count.svg" /></p>
 
-<div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" width="47%" />
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" width="50%" />
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath github stats" width="47%" />
+    <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath" alt="sujitdebnath github streak" width="50%" />
+  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujitdebnath&theme=github-compact&color=27374D&title_color=27374D&line=1D5D9B&point=0A6EBD&area=true&area_color=068FFF" alt="sujitdebnath activity graph" style="width: 98%; height: auto;">
 </div>
 
-<!--
-<div align="center" style="display: flex; flex-direction: row;">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=sujitdebnath&show_icons=true&locale=en" alt="sujitdebnath" />
-  &nbsp;
-  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitdebnath&" alt="sujitdebnath" />
-</div>
--->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitdebnath&show_icons=true&locale=en&layout=donut" alt="sujitdebnath" /> -->
